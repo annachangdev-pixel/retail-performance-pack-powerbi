@@ -4,13 +4,13 @@ A 3-page Power BI reporting pack built from invoice-level online retail transact
 
 ## Dashboard Pages
 ### Executive Summary
-![Executive Summary](executive_ summary.png)
+![Executive Summary](executive_summary.png)
 
 ### Product Performance
 ![Product Performance](product_performance.png)
 
 ### Country Performance
-![Country Performance](country_ performance.png)
+![Country Performance](country_performance.png)
 
 ## PDF Report
 - [Download the PDF](Retail_Weekly_Pack_2010-2011.pdf)
