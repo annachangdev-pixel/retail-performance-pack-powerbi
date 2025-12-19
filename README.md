@@ -1,7 +1,7 @@
 # Retail Weekly Performance Pack (Power BI)
 
 A 3-page Power BI reporting pack built from invoice-level online retail transactions (2010–2011) to track KPI performance and highlight top products and markets.
-
+![test](./executive_summary.png)
 ## Dashboard Pages
 ### Executive Summary
 ![Executive Summary](executive_summary.png)
